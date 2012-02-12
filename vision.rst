@@ -2,6 +2,7 @@ Vision
 ######
 :date: 2007-05-21 02:55
 :category: Uncategorized
+::status: draft
 
 我现在越来越喜欢一种Vision，一种可以几乎预测未来变化的视野。认识到在这个不断变化的大环境，把握
 

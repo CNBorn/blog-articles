@@ -9,7 +9,7 @@ I'm a computer geek who believes Pythonic and passionate about using Python and/
 
 I'm also passionate about sharing novelty & creative ideas among many geek or non-geek events.
 
-I'm currently working as Software Engineer at `Douban
+Software Engineer at `Douban
 <http://www.douban.com>`_.
 
 Co-organizer of `Beijing OpenParty

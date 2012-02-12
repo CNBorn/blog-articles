@@ -2,6 +2,7 @@ Bugzilla中针对不同产品的权限设定
 ####################
 :date: 2009-04-28 17:58
 :category: Software
+:status: draft
 
 `Bugzilla`_是一个经典的软件缺陷追踪工具，最初版本由Netscape开发，1998年遵循Mozilla Public
 License协议公开源代码。Bugzilla作为功能强大的Bug Tracking系统，在无数的商业/非商业组织和项目中得到广泛的应用。

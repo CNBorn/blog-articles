@@ -2,7 +2,7 @@ Getting Real 中文版
 ################
 :date: 2009-05-31 23:38
 :category: Projects
-::status: draft
+:status: draft
 
 很早就听说过 `Getting Real`_
 这本书，但是开始认真阅读却是在启动自己的个人项目之后。赫然发现自己在项目中采取的一些原则和方法，原来早有类似的理论支持。当然，Getting

@@ -2,6 +2,7 @@
 ################
 :date: 2009-11-22 11:59
 :category: Traveling
+:status: draft
 
 我于09年9月27日－10月8日在柬埔寨独自背包旅行，其间的经历和收获数不胜数。相关的经历我曾在10月底在 `Beijing Open
 Party`_

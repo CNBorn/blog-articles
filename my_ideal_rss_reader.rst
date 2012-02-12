@@ -2,6 +2,7 @@
 ###############
 :date: 2007-01-27 23:18
 :category: memo
+:status: draft
 :slug: ideal-rss-reader
 
 在坐公车的时候设想的，最能满足我现阶段需求的RSS阅读工具。 事实上，这是一个planet, 是一个智能的aggregator，它可以记录我点击文章的习惯，分辨出这些我感兴趣的文章，并且着重提高与这些话题文章的优先级

@@ -2,7 +2,7 @@ Google Developer Day 2009, Beijing
 ##################################
 :date: 2009-06-15 02:04
 :category: Event
-::status: draft
+:status: draft
 
 参加了6月5日的 Google Developer Day 2009, Beijing，这是一个迟到的总结。
 总体来说，会议期间的课程倒是并没有给我太大的收获，认真听的两个课程(AppEngine)全都中规中矩，没有提供什么特别新颖的东西。反倒是开场时演示的Google

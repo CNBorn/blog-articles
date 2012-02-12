@@ -2,6 +2,7 @@ shootGFW: 一个使用PyGame开发的小游戏
 ##########################
 :date: 2009-07-11 12:22
 :category: Projects
+:status: draft
 
 |image0|
 shootGFW: 一个使用PyGame开发的小游戏。源码已经依据GPL协议公开，Google Code 项目主页:

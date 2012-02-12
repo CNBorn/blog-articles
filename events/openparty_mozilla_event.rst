@@ -2,6 +2,7 @@ OpenParty &quot;有狐&quot;
 ########################
 :date: 2009-03-14 10:42
 :category: Event
+:status: draft
 
 本次的`OpenParty`_
 "有狐"活动是以Mozilla的内容为核心，同时继续保持OpenParty传统的话题分享方式。这是我第二次参与OpenParty的活动，也是我第一次在这里进行话题分享。

@@ -2,6 +2,7 @@
 ######################
 :date: 2006-10-27 19:16
 :category: Uncategorized
+:status: draft
 
 在Ubuntu Server上面装了两个应用级Web服务，WordPress和sa.bros.us，记下几点要注意的
  WordPress就不介绍了吧，著名的blog程序，我接触得晚了些

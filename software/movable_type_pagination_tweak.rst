@@ -2,6 +2,7 @@ Movable Type 4.3 分页改进
 #########################
 :date: 2009-12-13 14:25
 :category: Software
+:status: draft
 
 Movable Type 4.3
 版本开始，官方提供了一种分页方法。解决了MT静态化爱好者们实现像各种动态Blog程序，如Wordpress那样，可以一页一页地翻到最后的心愿。

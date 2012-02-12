@@ -2,6 +2,7 @@ OpenParty &quot;晚春夜曲&quot;
 ##########################
 :date: 2009-04-26 15:21
 :category: Event
+:status: draft
 
 这次的`OpenParty`_活动，内容异彩纷呈。更重要的是，有了豆瓣架构技术路线等QCon等会议上的精彩演讲，这次的OpenParty被大家戏称为"小QCon"
 简单谈一下，认真聆听的两个Topic。

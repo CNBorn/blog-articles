@@ -2,6 +2,7 @@
 #######
 :date: 2007-07-28 23:45
 :category: Uncategorized
+:status: draft
 
 这个暑假的一部分的精力放在一个Web项目上。从开始到现在规模已经比预想的要膨胀许多，使用到的东西从HTML、CSS、Javascript
  直到后来的

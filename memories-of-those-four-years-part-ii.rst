@@ -2,6 +2,7 @@
 ########
 :date: 2008-07-06 23:15
 :category: Uncategorized
+:status: draft
 
 (第一部分请参考`《四年的回忆（一）》`_)
  (二）

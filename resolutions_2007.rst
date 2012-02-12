@@ -2,7 +2,7 @@ Resolutions, 2007
 #################
 :date: 2007-01-12 22:08
 :category: Uncategorized
-::status: draft
+:status: draft
 
 考试结束以后，终于有时间来写下2007年的愿望。
  其实我更习惯把具体的愿望，放在自己生日的周期循环中。新年的愿望于我，更像是对于整个年头的期盼。

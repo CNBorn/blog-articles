@@ -2,6 +2,7 @@ Sparkle
 #######
 :date: 2007-08-10 17:02
 :category: Projects
+:status: draft
 
 终于基本实现了我一直以来十分需要的，一个可以帮助自己记忆单词的软件。
 Sparkle

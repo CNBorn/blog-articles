@@ -2,6 +2,7 @@ Life with little motivation
 ###########################
 :date: 2006-05-31 20:34
 :category: Uncategorized
+:status: draft
 
 现在我的笔记本已经完全"堕落"成为我的写字工具了，以前我想把她命名成Alva，因为Alva是Thomas
  Edison的middle

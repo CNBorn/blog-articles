@@ -2,6 +2,7 @@ CMS Made Simple 安全技巧
 ####################
 :date: 2007-07-31 04:36
 :category: Software
+:status: draft
 
 上次说到自己使用建立的CMS Made
 Simple建立的一个站点`被黑了`_，由于之前没有做好充足的应付这种事件的准备，用了近20个小时才恢复。通过这次事件，自己吸取了沉痛的教训，并且在CMS

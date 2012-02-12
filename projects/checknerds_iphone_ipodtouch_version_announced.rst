@@ -2,6 +2,7 @@ CheckNerds iPhone/iPod Touch 版本发布
 #################################
 :date: 2009-04-03 23:33
 :category: Projects
+:status: draft
 
 `|image0|`_
  `CheckNerds`_ 个人事项管理网站，使用Google App Engine技术打造。今天，CheckNerds的

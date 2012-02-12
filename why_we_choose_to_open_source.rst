@@ -2,7 +2,7 @@
 ##########
 :date: 2007-08-18 02:53
 :category: Uncategorized
-::status: draft
+:status: draft
 
 走在街上时想到，为什么自己的那些`小程序`_要开源？那些小程序，本可以自己默默使用的，为什么要开源？
 

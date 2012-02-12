@@ -2,6 +2,7 @@ Blog的Dilemma
 ############
 :date: 2007-05-01 01:57
 :category: Uncategorized
+:status: draft
 
 崩溃了这么多天，Donews的blog终于可以正常使用了。这期间，看到了几个一直在Donews的朋友都因为忍受不了这样的服务而搬家。（参考`这里`_、`这里`_)
 虽然这几天并没有什么东西需要急着写出来，可是donews的表现一样让我心焦。

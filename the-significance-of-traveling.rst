@@ -2,7 +2,7 @@
 #####
 :date: 2008-09-07 23:11
 :category: Uncategorized
-::status: draft
+:status: draft
 
 `|image0|`_
 

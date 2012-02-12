@@ -2,6 +2,7 @@ CheckNerds Mobile，随时管理个人事项
 ##########################
 :date: 2008-12-31 23:41
 :category: Projects
+:status: draft
 
 `|image0|`_
 

@@ -2,6 +2,7 @@ CheckNerds Labs 开源项目正式上线
 ########################
 :date: 2009-08-11 23:24
 :category: Projects
+:status: draft
 
 2008年7月19日，`CheckNerds`_ 写下了最初的代码。而在接下来的这一年里，CheckNerds
 从一个还仅存在于我头脑概念中的网站，到有千余注册用户的小型站点，算是迈出了第一步。

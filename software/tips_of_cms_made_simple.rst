@@ -2,6 +2,7 @@ CMS Made Simple的几点技巧
 ####################
 :date: 2007-06-02 11:14
 :category: Software
+:status: draft
 
 `CMS Made Simple`_是一个简洁好用的CMS，`tarsusa的新网站`_就是由它驱动的。具体的介绍大家可以参阅以下两篇文章：
  `优秀的轻量级内容管理系统: CMS Made Simple`_

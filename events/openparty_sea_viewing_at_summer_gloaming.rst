@@ -2,6 +2,7 @@ OpenParty &quot;夏暮观海&quot;
 ##########################
 :date: 2009-07-28 09:59
 :category: Event
+:status: draft
 
 文章开场要首先感谢cleverpig及其他OpenParty同仁赠送的OpenParty Tee，十分Geek, 十分感谢！
 

@@ -2,6 +2,7 @@ id之痛
 ######
 :date: 2009-08-21 20:47
 :slug: pain-of-id
+:status: draft
 :category: memo
 
 id的新作Wolfenstein在GameTrailers上被打了一个很低的分数。`Video Review`_的解说没有过多的苛刻，却充满了悲凉的气息。作为游戏界的人们，大家都无比敬重id，这个诞生了FPS之父的公司，这个拥有John Carmack这个神一样的程序员的公司，但是人们也同样知道，id的神话，或许已经一去不复返了。

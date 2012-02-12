@@ -2,6 +2,7 @@ Promises
 ########
 :date: 2006-10-24 20:56
 :category: Uncategorized
+:status: draft
 
 在不知不觉地写Blog的过程中，会有一个习惯，总是不知不觉地说一句接下来要做一件什么事情。在说的同时会觉得完成这些我所说的事情是顺理成章的，随手
 

@@ -2,6 +2,7 @@
 ######
 :date: 2008-10-23 20:16
 :category: Uncategorized
+:status: draft
 
 `|image0|`_
  我

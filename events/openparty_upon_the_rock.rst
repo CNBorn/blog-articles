@@ -2,6 +2,7 @@ OpenParty &quot;岩上&quot;
 ########################
 :date: 2009-12-21 01:44
 :category: Event
+:status: draft
 
 12月份的活动聚集了来自Apple、设计、架构、出版等行业的大牛们前来分享话题，所以来到现场参与活动的人数达到了 `OpenParty`_
 活动的新高峰，100多人几乎坐满了宽敞的ThoughtWorks办公室。

@@ -1,9 +1,7 @@
-About CNBorn
-###################
+About
+#####
 
 :category: About
-
-*CNBorn*
 
 I'm a computer geek who believes Pythonic and passionate about using Python and/or other open source tools to create software that really matters.
 

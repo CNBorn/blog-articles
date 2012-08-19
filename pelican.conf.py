@@ -4,8 +4,8 @@ SITENAME = u"CNBorn"
 TAGLINE = u"Dharma's truth"
 SITEURL = 'http://cnborn.net/blog/'
 
-ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
 GITHUB_URL = 'http://github.com/CNBorn/'
 DISQUS_SITENAME = "blog-cnborn-dot-net"

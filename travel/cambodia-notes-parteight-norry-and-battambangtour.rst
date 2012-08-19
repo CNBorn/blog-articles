@@ -2,7 +2,6 @@
 ################
 :date: 2010-05-09 22:45
 :category: Traveling
-:status: draft
 :slug: cambodia-notes-parteight-norry-and-battambangtour
 
 我于09年9月27日－10月8日在柬埔寨独自背包旅行，其间的经历和收获数不胜数。相关的经历我曾在09年10月底在`Beijing Open Party`_ 上有过一次交流分享，现在把旅行途中以及后来的一些记录陆续发布到这里，请感兴趣的朋友关注这里的更新。除正文中的照片以外，还可以在`我的Footbig`_以及`我的豆瓣相册`_中欣赏因篇幅原因未能在文章中出现的照片。上一次交流分享的slides可以在`我的slideshare页面`_看到。

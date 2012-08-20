@@ -8,7 +8,7 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
 GITHUB_URL = 'http://github.com/CNBorn/'
-DISQUS_SITENAME = "blog-cnborn-dot-net"
+DISQUS_SITENAME = "cnborn"
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = ""

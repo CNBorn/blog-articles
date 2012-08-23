@@ -26,7 +26,7 @@ LINKS = (('OpenParty', 'http://www.beijing-open-party.org'),
 SOCIAL = (('Twitter', 'http://twitter.com/CNBorn'),
           ('Douban', 'http://www.douban.com/people/CNBorn/'),
           ('github', 'http://github.com/CNBorn'),
-          ('last.fm', 'http://lastfm.com/user/CNBorn'),)
+         )
 
 # global metadata to all the contents
 DEFAULT_METADATA = (('CNBorn', 'cnborn'),)

@@ -4,9 +4,7 @@ Category: Event
 Slug: openparty-autumn-ripple
 
 
-阔别了两个月的 OpenParty
-于十月的最后一天再次到来，此次非技术类话题占了主力，我自己也贡献了长假
-期间独自柬埔寨背包旅游的话题。像以往一样还是谈谈自己经历的内容。
+阔别了两个月的 OpenParty于十月的最后一天再次到来，此次非技术类话题占了主力，我自己也贡献了长假期间独自柬埔寨背包旅游的话题。像以往一样还是谈谈自己经历的内容。
 
 首先是 [MediaZero](http://www.bjdoc.com/index.asp) 带来的，关于中国纪录片发展现状的话题
 

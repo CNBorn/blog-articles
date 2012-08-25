@@ -6,6 +6,13 @@ SITEURL = 'http://cnborn.net/blog/'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+TAG_URL = 'tag/{name}/'
+TAG_SAVE_AS = 'tag/{name}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+CATEGORY_URL = 'category/{name}/'
+CATEGORY_SAVE_AS = 'category/{name}/index.html'
+AUTHOR_SAVE_AS = False
 
 GITHUB_URL = 'http://github.com/CNBorn/'
 DISQUS_SITENAME = "cnborn"

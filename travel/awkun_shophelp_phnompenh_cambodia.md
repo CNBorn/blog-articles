@@ -1,7 +1,7 @@
 Title: Aw&#039;-Kun SHOP+HELP @ Phnom Penh, Cambodia
 Date: 2009-10-24 01:50
 Category: Traveling
-Tags: Cambodia
+Tags: cambodia
 Slug: awkun-shop+help-at-phnom-penh-cambodia
 
 >我于09年9月27日－10月8日在柬埔寨独自背包旅行，其间的经历和收获数不胜数。09年10月31日我会在[Beijing Open Party](http://www.beijing-open-party.org/)上就自己的这次旅程和背包经验来做一个演讲，并在随后把相关的内容陆续发布到自己的Blog上面来，欢迎届时在北京的朋友参与，也请其它关注的朋友关注这里的更新。接下来的文字描述了我10月7日游历完旅程大多的主要景点和城市后，回到金边，发现的一个慈善手工艺品店的情况。

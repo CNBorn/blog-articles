@@ -1,7 +1,7 @@
 Date: 2009-06-20 01:53
 Title: 谈谈 BetaCamp, TEDxShanghai 等活动
 Category: Event
-Slug: talk-about-betacamp-tedxshanghai-betacamp-tedxshanghai
+Slug: talk-about-betacamp-tedxshanghai
 
 
 上周日参加了[BetaCamp](http://camp.blogbeta.com/)这个活动。这是个延续了TED精神的活动，从它的命名方式就可以看出来。不知是刻意还是碰巧，上周末的几天里，仅我所知就有所三个与TED相关或类似的活动在举行。其中[TEDxShanghai](http://www.tedxshanghai.com/)和[TEDxSYSU](http://tedxguangzhou.com/) 似乎都是TED官方授权的活动。还有一个就是与TED的形式和概念都接近的BetaCamp了，作为一个TED迷，我决定去看看。

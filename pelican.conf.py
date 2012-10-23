@@ -27,6 +27,11 @@ GOOGLE_ANALYTICS = "UA-329713-5"
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
+MENUITEMS = (('Home', '/blog'),
+             ('Reading', '/blog/category/Reading/'),
+            ('Travel', '/blog/category/Traveling/'),
+             )
+
 LINKS = (('OpenParty', 'http://www.beijing-open-party.org'),
         )
 
@@ -34,6 +39,9 @@ SOCIAL = (('Twitter', 'http://twitter.com/CNBorn'),
           ('Douban', 'http://www.douban.com/people/CNBorn/'),
           ('github', 'http://github.com/CNBorn'),
          )
+
+LINKS = ()
+SOCIAL = ()
 
 # global metadata to all the contents
 DEFAULT_METADATA = (('CNBorn', 'cnborn'),)

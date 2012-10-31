@@ -12,6 +12,8 @@ Slug: douban-dislike_chrome_extension
 
 ![豆瓣首页进化 - Chrome插件](/images/projects/douban-dislike-screenshot.jpg)
 
+[Chrome插件下载](https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3%E9%A6%96%E9%A1%B5%E8%BF%9B%E5%8C%96/ekdbbkjjobpcmnpcblabohfkdlpipeie)
+
 根据自己的需求，未来功能会有增强，欢迎大家关注
 
 Inspired by: [http://www.douban.com/note/238977784/](http://www.douban.com/note/238977784/)

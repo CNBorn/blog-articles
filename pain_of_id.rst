@@ -58,7 +58,7 @@ id同样在多种方面保持着理想化的构想，
 <http://www.quakelive.com>`_
 就是很好的一个明证，我还专门为这个项目的宣布写过
 `一篇短文
-<http://cnborn.net/blog/2007/08/the-commitment-of-id.html>`_
+<http://cnborn.net/blog/2007/08/the-commitment-of-id/>`_
 。无奈就在Quake Live 宣布支持Linux 的今天，我同时也读到了Carmack宣布这个项目目前入不敷出的情况......
 
 我觉得id可以考虑去做的几件事情：

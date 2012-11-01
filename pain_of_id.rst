@@ -2,10 +2,12 @@ id之痛
 ######
 :date: 2009-08-21 20:47
 :slug: pain-of-id
-:status: draft
 :category: memo
 
-id的新作Wolfenstein在GameTrailers上被打了一个很低的分数。`Video Review`_的解说没有过多的苛刻，却充满了悲凉的气息。作为游戏界的人们，大家都无比敬重id，这个诞生了FPS之父的公司，这个拥有John Carmack这个神一样的程序员的公司，但是人们也同样知道，id的神话，或许已经一去不复返了。
+id的新作Wolfenstein在GameTrailers上被打了一个很低的分数。
+`Video Review
+<http://http://www.gametrailers.com/video/review-wolfenstein/54583>`_
+的解说没有过多的苛刻，却充满了悲凉的气息。作为游戏界的人们，大家都无比敬重id，这个诞生了FPS之父的公司，这个拥有John Carmack这个神一样的程序员的公司，但是人们也同样知道，id的神话，或许已经一去不复返了。
 
 和其它人一样，当我看到Wolfenstein重新登上最新一代的游戏平台的时候，心里没有什么激动，却充满了疑惑。对外公布时间更长的Rage还没有更多消息，却猛然冒出了这个游戏，不得不让人困惑这是怎样定位的一款作品。Trailers公开之后大家也必然像我一样充满了失望。作为一个最近的游戏，单从视觉效果上来说，Wolfenstein没有任何吸引大家眼球的地方(虽然目前这个效果是Doom3，即id Tech 4引擎的极致）。种类繁多的宣传片中所描述的这些或那些游戏中的特色，在一个被前几年的各种大作搞的审美疲劳的玩家面前，根本不具备任何优势（一个偶尔可以切换成绿色的世界，绝对没有坐在直升机上体验核弹在面前爆炸来得刺激）。
 
@@ -51,7 +53,13 @@ Doom3重新树立了新的标准，id Tech 4作为id首个使用C++撰写的引�
 
 现在的id，楼下或许还是那十几辆法拉利，但是殊不知窗外景色的大不同。我想，John Carmack这样的天才的时代，已经过去了，作为一个传奇英雄他将永远辉煌，但却无法保证id的引擎团队永远辉煌。个人力量正在被商业化生产而超过。仅仅说我在北京的计算机书店，就见到过非常详尽的虚幻引擎开发手册，内容十分丰富。这足以证明Unreal Engine完善的商业化程度。id的风格则走了另外的套路，Carmack提倡的小团队项目，以及过度依靠他本人的能力，相比下制约了id引擎的发展。Carmack将公司旧有的引擎源代码完全开放，让id在游戏业界以及全球都获得了广泛的声誉和尊敬----却没法显著提高id实力。 
 
-id同样在多种方面保持着理想化的构想，`Quake Live`_就是很好的一个明证，我还专门为这个项目的宣布写过`一篇短文`_。无奈就在Quake Live 宣布支持Linux 的今天，我同时也读到了Carmack宣布这个项目目前入不敷出的情况......
+id同样在多种方面保持着理想化的构想，
+`Quake Live
+<http://www.quakelive.com>`_
+就是很好的一个明证，我还专门为这个项目的宣布写过
+`一篇短文
+<http://cnborn.net/blog/2007/08/the-commitment-of-id.html>`_
+。无奈就在Quake Live 宣布支持Linux 的今天，我同时也读到了Carmack宣布这个项目目前入不敷出的情况......
 
 我觉得id可以考虑去做的几件事情：
 
@@ -62,13 +70,13 @@ id同样在多种方面保持着理想化的构想，`Quake Live`_就是很好�
 
 参考文献：
 
-`id Tech 3`_, `id Tech 4`_ on Wikipedia.
+`id Tech 3
+<http://en.wikipedia.org/wiki/Id_Tech_3>`_
+, 
+`id Tech 4
+<http://en.wikipedia.org/wiki/Id_Tech_4>`_
+on Wikipedia.
 
-Masters of Doom, `Doom启示录`_
-
-.. _Video Review: http://www.gametrailers.com/video/review-wolfenstein/54583
-.. _Quake Live: http://www.quakelive.com
-.. _一篇短文: http://cnborn.net/blog/2007/08/the-commitment-of-id.html
-.. _id Tech 3: http://en.wikipedia.org/wiki/Id_Tech_3
-.. _id Tech 4: http://en.wikipedia.org/wiki/Id_Tech_4
-.. _Doom启示录: http://www.douban.com/subject/1516800/
+Masters of Doom, 
+`Doom启示录
+<http://www.douban.com/subject/1516800/>`_

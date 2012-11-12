@@ -19,7 +19,7 @@ Currently living in Beijing, PR China.
 
 Contact:
     * Gmail: CNBorn at Gmail domain, you knew it.
-    * Douban: `CNBorn <http://www.douban.com/people/CNBorn/>`_
+    * Douban: `CNBorn@Douban <http://www.douban.com/people/CNBorn/>`_
     * github: `CNBorn <https://github.com/CNBorn>`_
     * Twitter: `@CNBorn
       <http://twitter.com/CNBorn>`_

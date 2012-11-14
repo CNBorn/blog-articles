@@ -3,7 +3,7 @@ Title: 豆瓣首页进化 - Chrome/Firefox插件
 Tags: Douban, Chrome, Firefox
 Slug: douban-dislike_chrome_extension
 
-2012-11-14 - 更新: Firefox版本上线（需Greasemonkey），请到此安装: http://userscripts.org/scripts/show/151737
+2012-11-14 - 更新: Firefox版本上线（需Greasemonkey），请到此安装: [http://userscripts.org/scripts/show/151737](http://userscripts.org/scripts/show/151737)
 
 用周末晚上的时间做的Chrome插件：为“豆瓣猜”页面加入“不喜欢”功能，帮助用户过滤不需要的信息。
 

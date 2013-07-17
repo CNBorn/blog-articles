@@ -15,7 +15,7 @@ Nowadays, People tend to express their ideas with 100-page slides containing var
 
 2. Less information(text) on one slide
 
-    Presuming that all your audiences can not quickly understand while ones are talking about complex concepts, so they tend to slide to find some help . Having less text on one slide makes them perceive your idea very quickly from one slide then focus on speaking, rather than try to read through quite amount of texts.
+    Presuming that all your audiences can not quickly understand while ones are talking about complex concepts, so they tend to slide to find some help . Having less text on one slide makes them perceive your idea very quickly from one slide then focus on speaking, rather than try to read through quite an amount of texts.
 
 3. Clearly indicates progress 
 

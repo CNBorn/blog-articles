@@ -16,6 +16,10 @@ I've earned following certificates from MOOCs:
   
     [Design of Computer Programs (CS212)](https://www.udacity.com/course/cs212)
 
+  * [Coursera](https://www.coursera.org/)
+
+    [Democratic Development](https://www.coursera.org/course/democraticdev)
+
 Movies, Reading books and Classical Music are what I am spending my spare time with.
 
 Currently live in Beijing, PR China.

@@ -27,7 +27,8 @@ Currently live in Beijing, PR China.
 Contact:
 
   * Gmail: CNBorn
-  * [Douban](http://www.douban.com/people/CNBorn/)
+  * [Google+](https://plus.google.com/105076951106222859649/posts)
+  * [Linkedin](http://cn.linkedin.com/in/cnborn)
   * [github](https://github.com/CNBorn)
   * [Twitter](http://twitter.com/CNBorn)
-  * [Linkedin](http://cn.linkedin.com/in/cnborn)
+  * [Douban](http://www.douban.com/people/CNBorn/)

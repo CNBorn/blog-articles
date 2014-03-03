@@ -6,13 +6,13 @@ Slug: chinese-new-year-in-fujian
 
 I had a happy chinese new year at Fujian last month. Many of my friends are curious of what it looks like, I'll put some of my photos here to give you a glimpse of it.
 
-JianOu (second half pronounces in English is more like Oh) is one of the old capital cities of some southern regime in Chinese history. Fujian province got its name derived from both Fuzhou(the current capital city of Fujian province) and JianOu.
+JianOu (second half pronounces in English is more like Oh) is [a city in Fujian](http://en.wikipedia.org/wiki/Jianou). Fujian province got its name derived from both Fuzhou(the current capital city of Fujian province) and JianOu.
 
 ![](images/travel/chinese-new-year-in-fujian/R0011528.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011532.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011533.JPG)
 
-Taken on the streets of Jianou on the first day of chinese new year. the slogan of the banner says 'senior's joy cultural/art assosiation', they are walking to somewhere to give the lion-dancing show.
+Taken on the streets of Jianou on the first day of chinese new year. the slogan of the banner says "senior's joy cultural/art assosiation", they are walking to somewhere to give the lion-dancing show.
 
 ![](images/travel/chinese-new-year-in-fujian/R0011534.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011539.JPG)
@@ -21,9 +21,9 @@ Taken on the streets of Jianou on the first day of chinese new year. the slogan 
 ![](images/travel/chinese-new-year-in-fujian/R0011542.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011543.JPG)
 
-Photos of GuangXiaoSi, a buddist temple, one of the largest temple in Jianou. A lot of people comes here during new year holiday, They light a lot of fireworks in front of the temple in order to wish a pleasent year.
+Photos of GuangXiao Temple, a buddist temple, one of the largest temple in Jianou. A lot of people comes here during new year holiday, They light a lot of fireworks in front of the temple in order to wish this year to be a pleasant year.
 
-The Tea Cup photo is taken during a private collection show of this temple. The Cup itself is made of a lost technic which origins from Fujian but now lost. Craftsman in both China and Japan are trying to regain this precious feat called 'JianZhan'(Jian Style), which made the supernova alike texture style on the cup.
+The Photo of Tea Cup is taken during a private collection show of this temple. The Cup itself is made of a unique glaze technic which origins from Fujian. Its style called [Jian Ware](http://en.wikipedia.org/wiki/Jian_ware#Jian_tea_wares). 
 
 ![](images/travel/chinese-new-year-in-fujian/R0011544.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011545.JPG)
@@ -52,7 +52,7 @@ Random Shots.
 ![](images/travel/chinese-new-year-in-fujian/R0011596.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011597.JPG)
 
-A series of temple shots taken from a temple complex just outside the city streets.
+A series of temple shots taken from a temple complex (Taibao Temple) just outside the city streets.
 
 ![](images/travel/chinese-new-year-in-fujian/R0011600.JPG)
 ![](images/travel/chinese-new-year-in-fujian/R0011602.JPG)

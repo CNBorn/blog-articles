@@ -9,7 +9,7 @@ We made a small trip to Ji country in Tianjin where is only 80 minutes away from
 This place at first lured me as the east tomb of Qing dynasty seated nearby, but my focus was shifted since I saw one of the ancient temple's gateway picture - Dule Temple (Solitary of Joy Temple in literally meaning). I was surisingly found that I once had a look at the structural drawing of Dule Temple's Guanyin pavilion by one of the famous architectural observer Liang Sicheng in early 20th century. In contrast the tomb architecture seems kind of dull and monotonous.
 
 ![Shanmen(Gate) of Dule Temple]({filename}/images/travel/a-trip-to-ji-country/R0013255.JPG)
-![Guardian king in Shanmen]({filename}/images/travel/a-trip-to-ji-country/R0013256.JPG)
+![Guardian king in Shanmen]({filename}/images/travel/a-trip-to-ji-country/R0013256_rotated.jpg)
 ![Guanyin Pavilion]({filename}/images/travel/a-trip-to-ji-country/R0013261.JPG)
 ![Back of Guanyin Pavilion]({filename}/images/travel/a-trip-to-ji-country/R0013269.JPG)
 
@@ -33,8 +33,8 @@ Some random shots in Dule Temple.
 
 ![White Tower]({filename}/images/travel/a-trip-to-ji-country/R0013295.JPG)
 ![Temple of White Tower]({filename}/images/travel/a-trip-to-ji-country/R0013298.JPG)
-![White Tower]({filename}/images/travel/a-trip-to-ji-country/R0013300.JPG)
-![White Tower]({filename}/images/travel/a-trip-to-ji-country/R0013310.JPG)
+![White Tower]({filename}/images/travel/a-trip-to-ji-country/R0013300_rotated.JPG)
+![White Tower]({filename}/images/travel/a-trip-to-ji-country/R0013310_rotated.jpg)
 
 White Tower, A pagoda nearby Dule Temple, It consist of three kind of different styles: stupa, chinese temple pagoda and brick pagoda. 
 

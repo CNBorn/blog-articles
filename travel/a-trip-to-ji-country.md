@@ -6,19 +6,19 @@ Slug: a-trip-to-ji-country
 
 We made a small trip to Ji country in Tianjin where is only 80 minutes away from Beijing during the Dragon Boat Festival holiday.
 
-This place at first lured me as the east tomb of Qing dynasty seated nearby, but my focus was shifted since I saw one of the ancient temple's gateway picture - Dule Temple (Solitary of Joy Temple in literally meaning). I was surisingly found that I once had a look at the strcture drawing of Dule Temple's Guanyin pavilion by one of the famous architect observer Liang Sicheng in early 20th century. In the contast the tomb architecture seems kind of dull and monotonous.
+This place at first lured me as the east tomb of Qing dynasty seated nearby, but my focus was shifted since I saw one of the ancient temple's gateway picture - Dule Temple (Solitary of Joy Temple in literally meaning). I was surisingly found that I once had a look at the structural drawing of Dule Temple's Guanyin pavilion by one of the famous architectural observer Liang Sicheng in early 20th century. In contrast the tomb architecture seems kind of dull and monotonous.
 
 ![Shanmen(Gate) of Dule Temple]({filename}/images/travel/a-trip-to-ji-country/R0013255.JPG)
 ![Guardian king in Shanmen]({filename}/images/travel/a-trip-to-ji-country/R0013256.JPG)
 ![Guanyin Pavilion]({filename}/images/travel/a-trip-to-ji-country/R0013261.JPG)
 ![Back of Guanyin Pavilion]({filename}/images/travel/a-trip-to-ji-country/R0013269.JPG)
 
-Dule Temple's highlight is the Guanyin pavilion, and the guanyin statue which is the largest clay made statue in the world(more than 16m height). Unfortunately camreras are not allowed inside.
+Dule Temple's highlight is the Guanyin pavilion, and the guanyin statue which is the largest clay made statue in the world(more than 16m height). Unfortunately cameras are not allowed inside.
 
 ![Backyard of Dule Temple]({filename}/images/travel/a-trip-to-ji-country/R0013281.JPG)
 ![Backyard of Dule Temple]({filename}/images/travel/a-trip-to-ji-country/R0013282.JPG)
 
-The backyard is the 'main hall' which rebuilt in 2004, a relatively small building in which seats three buddhas. It is my first time to notice there are medicine buddha whose figure are more popular in Japan's temples.
+The backyard contains the 'main hall' which rebuilt in 2004, a relatively small building in which seats three buddhas. It is my first time to notice there are medicine buddha whose figure are more popular in Japan's temples.
 
 ![Backyard of Dule Temple]({filename}/images/travel/a-trip-to-ji-country/R0013285.JPG)
 ![Guanyin Pavilion]({filename}/images/travel/a-trip-to-ji-country/R0013289.JPG)

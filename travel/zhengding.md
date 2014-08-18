@@ -5,15 +5,15 @@ Language: en
 Tags: Zhengding
 Slug: zhengding
 
-I’ve been to [Zhengding](http://en.wikipedia.org/wiki/Zhengding) one and half years ago, it was part of my pack-and-go visit to Hebei province during a short three-day holiday. At that time, after the visit of Bilu temple in Shijiazhuang for its famous wall-paintings (I hope I could cover that in a separate blog post in future), I was thrilled by these wonderful artistics and wanted to see more immediately, therefore I queried the people of the souvenir shop at bill temple: “is there anything else like these here near Shijiazhuang City?”
+I’ve been to [Zhengding](http://en.wikipedia.org/wiki/Zhengding) one and half years ago, it was part of my pack-and-go visit to Hebei province during a short three-day holiday. At that time, after a visit to Bilu temple in Shijiazhuang for its famous wall-paintings (I hope I could cover that in a separate blog post in future), I was thrilled by these wonderful artistics and wanted to see more immediately, therefore I queried at the souvenir shop of Bilu temple: Is there anything else like these here near Shijiazhuang City?
 
-Zhengding was that answer and it was not really far away. One and half hours later, I was in Zhengding which are at 10km northeast of Shijiazhuang City centre, and enjoyed an pleasant visit.
+Zhengding was the answer and it is not far away. One and half hours later, I was in Zhengding which are at 10km northeast of Shijiazhuang City centre, and enjoyed an pleasant visit.
 
 I visited Zhengding again in this June with my wife who haven’t been but always wanted to. 
 
 Zhengding is famous for its grand royal monastery Longxi temple and four pagodas each one in different style. 
 
-Longxing Temple (Temple of flourishes) is also called Dafosi ('Temple of grand buddha', but actully a grand Guanyin inside the main hall) by locals. I know only about pagodas in Zhengding during my first time visit so that the monastery were put on my last visit list (though all the places are not too far from each other) and was surprisingly pleasant about it.
+Longxing Temple (Temple of flourishes) is also called Dafosi ('Temple of grand buddha', but actully is a grand Guanyin inside the main hall) by locals. I knew only about pagodas in Zhengding during my first visit so that the monastery were put on bottom of my visit list (though all the places are not too far from each other) and I was surprisingly pleasant about it.
 
 ![Map of Longxing Temple]({filename}/images/travel/zhengding/R0013528.JPG_rotated.jpg)
 ![Moni Hall of Longxing Temple]({filename}/images/travel/zhengding/R0013535.JPG)
@@ -33,7 +33,7 @@ The Main Hall houses a bronze statue of GuanYin whose height is more than 20 met
 ![Bronze Guanyin]({filename}/images/travel/zhengding/R0013616.JPG_rotated.jpg)
 ![Hall of Longxing Temple are connected by staircases]({filename}/images/travel/zhengding/R0013621.JPG)
 
-After Longxing Temple, We went to Kaiyuan Temple. It is an historical site with one of the oldest kind of drum tower of Tang Danasty style in China, and the largest [Bixi(tortoise like beast)](http://en.wikipedia.org/wiki/Bixi_(tortoise)) in China. Inside Kaiyuan Temple, Xumi pagoda(Sumeru Pagoda) is built in Tang dynasty. A Tang style drum tower is also present in this temple.
+After Longxing Temple, We went to Kaiyuan Temple. It is an historical site with one of the oldest kind of drum tower of Tang Danasty style in China, and the largest [Bixi(tortoise like beast)](http://en.wikipedia.org/wiki/Bixi_(tortoise)) in China. Inside Kaiyuan Temple, Xumi pagoda(Sumeru Pagoda) is built in Tang dynasty.
 ![Xumi pagoda]({filename}/images/travel/zhengding/R0013629.JPG)
 ![Biggest Bixi]({filename}/images/travel/zhengding/R0013633.JPG)
 

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-AUTHOR = u'CNBorn'
-SITENAME = u"CNBorn"
+AUTHOR = u'Tyler Xing'
+SITENAME = u"Tyler Xing"
 TAGLINE = u"Dharma's truth"
 SITEURL = 'http://cnborn.net/blog/'
 
@@ -27,8 +27,7 @@ GOOGLE_ANALYTICS = "UA-329713-5"
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
-MENUITEMS = (('Home', '/blog'),
-             ('Reading', '/blog/category/Reading/'),
+MENUITEMS = (('Reading', '/blog/category/Reading/'),
             ('Travel', '/blog/category/Traveling/'),
              )
 
@@ -53,3 +52,5 @@ STATIC_PATHS = ["images",]
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
 
 TIMEZONE = "Asia/Shanghai"
+
+IGNORE_FILES = ['*.rst', 'README.md']

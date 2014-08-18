@@ -53,4 +53,4 @@ FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
 
 TIMEZONE = "Asia/Shanghai"
 
-IGNORE_FILES = ['*.rst', 'README.md']
+IGNORE_FILES = ['legacy/*.rst', '*.rst', 'README.md']

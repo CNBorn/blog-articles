@@ -1,6 +1,7 @@
 Title: Chinese New Year in Fujian
 Date: 2014-03-02 22:00
 Category: Traveling
+Lang: en
 Tags: Fujian
 Slug: chinese-new-year-in-fujian 
 
@@ -19,7 +20,6 @@ Taken on the streets of Jianou on the first day of chinese new year. the slogan 
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011540.JPG)
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011541.JPG)
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011542.JPG)
-![]({filename}/images/travel/chinese-new-year-in-fujian/R0011543.JPG)
 
 Photos of GuangXiao Temple, a buddist temple, one of the largest temple in Jianou. A lot of people comes here during new year holiday, They light a lot of fireworks in front of the temple in order to wish this year to be a pleasant year.
 
@@ -36,7 +36,7 @@ Random shots taken on the street. The craftman is making toy figure of powder an
 
 Drum Tower of JianOu, now the top building serves as a cultural/art school.
 
-![]({filename}/images/travel/chinese-new-year-in-fujian/R0011549.JPG)
+![]({filename}/images/travel/chinese-new-year-in-fujian/R0011549.JPG_rotated.jpg)
 
 The Mark indicates the level of water during three of the worst flood in the history. The most recent one is in 1998. in that year the flood hit half of the China.
 
@@ -48,7 +48,7 @@ Random Shots.
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011571.JPG)
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011572.JPG)
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011584.JPG)
-![]({filename}/images/travel/chinese-new-year-in-fujian/R0011594.JPG)
+![]({filename}/images/travel/chinese-new-year-in-fujian/R0011594.JPG_rotated.jpg)
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011596.JPG)
 ![]({filename}/images/travel/chinese-new-year-in-fujian/R0011597.JPG)
 

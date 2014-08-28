@@ -1,6 +1,7 @@
 Title: 柬埔寨背包记五：用石筑成的众神之家
 Date: 2010-02-12 02:02
 Category: Traveling
+Lang: cn
 Slug: cambodia-notes-partfive-lastday-in-angkorcore
 Tags: cambodia
 

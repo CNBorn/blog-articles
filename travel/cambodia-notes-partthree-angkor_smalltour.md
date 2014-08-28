@@ -1,6 +1,7 @@
 Title: 柬埔寨背包记三：风雨中的吴哥
 Date: 2009-12-14 22:33
 Category: Traveling
+Lang: cn
 Tags: cambodia
 Slug: cambodia-notes-partthree-angkor-smalltour
 

@@ -1,6 +1,7 @@
 Title: 柬埔寨背包记六：奔密列及大水中的暹粒
 Date: 2010-02-19 18:21
 Category: Traveling
+Lang: cn
 Tags: cambodia
 Slug: cambodia-notes-partsix-bengmealea-and-siemreap-in-flood
 

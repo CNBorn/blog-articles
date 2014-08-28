@@ -1,6 +1,7 @@
 Title: A trip to Ji country
 Date: 2014-06-02 08:36
 Category: Traveling
+Language: en
 Tags: Ji
 Slug: a-trip-to-ji-country
 

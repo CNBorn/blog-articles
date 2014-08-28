@@ -1,6 +1,7 @@
 Title: 柬埔寨背包记二：吴哥的大门，暹粒
 Date: 2009-12-07 01:00
 Category: Traveling
+Lang: cn
 Tags: cambodia
 Slug: cambodia-notes-parttwo-siemreap
 

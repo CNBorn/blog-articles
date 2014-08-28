@@ -1,7 +1,7 @@
 Title: Zhengding
 Date: 2014-08-16 15:42
 Category: Traveling
-Language: en
+Lang: en
 Tags: Zhengding
 Slug: zhengding
 

@@ -2,6 +2,7 @@
 ####################
 :date: 2009-01-26 01:11
 :category: Uncategorized
+:lang: cn
 :slug: learnt-from-organizing-annual-event
 
 如果要我用一句话来概括如同公司年会这样的一个项目实施进行中的状态的话，会是下面的这段话：

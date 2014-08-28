@@ -1,5 +1,6 @@
 Date: 2013-07-03
 Title: My Personal Slide Design Guidelines
+Language: en
 Tags: slide, design
 Slug: my-personal-slide-design-guidelines
 

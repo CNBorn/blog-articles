@@ -1,5 +1,6 @@
 Date: 2012-12-16
 Title: Lonely Planet 上的缅文数字
+Lang: cn
 Tags: Myanmar, numerals, 缅甸
 Slug: myanmar-numerals
 

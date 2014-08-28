@@ -1,6 +1,7 @@
 Date: 2009-11-03 22:28
 Title: OpenParty &quot;秋色连波&quot;
 Category: Event
+Lang: cn
 Tags: openparty
 Slug: openparty-autumn-ripple
 

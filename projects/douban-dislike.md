@@ -1,6 +1,7 @@
 Date: 2012-10-30
 Title: 豆瓣首页进化 - Chrome/Firefox插件
 Tags: Douban, Chrome, Firefox
+Lang: cn
 Slug: douban-dislike_chrome_extension
 
 2012-11-14 - 更新: Firefox版本上线（需Greasemonkey），请到此安装: [http://userscripts.org/scripts/show/151737](http://userscripts.org/scripts/show/151737)

@@ -1,6 +1,7 @@
 Date: 2012-10-22
 Title: 阅读，在缅甸（上）
 Tags: 缅甸, 佛教, 读书
+Lang: cn
 Slug: reading-in-myanmar-part-one
 
 

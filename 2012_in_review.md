@@ -1,6 +1,7 @@
 Title: 2012 in Review
 Date: 2012-12-31 14:55
 Category: Review
+Lang: cn
 Tags: 2012, review
 Slug: 2012-in-review
 

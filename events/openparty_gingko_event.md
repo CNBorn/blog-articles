@@ -1,6 +1,7 @@
 Title: OpenParty &quot;文杏香宇&quot;
 Date: 2012-11-24 20:33
 Category: Event
+Lang: cn
 Tags: openparty
 Slug: openparty-ginkgo-event
 

@@ -1,6 +1,7 @@
 Title: Getting Real 中文版
 Date: 2009-05-31 23:38
 Category: Projects
+Lang: cn
 Slug: getting-real-chn
 
 很早就听说过 [Getting Real](http://gettingreal.37signals.com/toc.php) 这本书，但是开始认真阅读却是在启动自己的个人项目之后。赫然发现自己在项目中采取的一些原则和方法，原来早有类似的理论支持。当然，Getting Real 的理论更实际、也更加全面，毕竟是真正的经验之谈。此后这本书就成为了我时常阅读的材料之一。

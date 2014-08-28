@@ -1,6 +1,7 @@
 Date: 2012-08-19
 Title: 《佛教常识答问》
 Tags: 佛教, 读书
+Lang: cn
 Slug: buddhism-101
 
 昨天前往[妙应寺白塔](http://zh.wikipedia.org/wiki/%E5%A6%99%E5%BA%94%E5%AF%BA)游览，在寺内的服务部购买了[《佛教常识答问》](http://book.douban.com/subject/1038746/)这本书。同时还拿到一本结缘的小册子《一切如来心秘密全身舍利 宝箧印陀罗尼经》。

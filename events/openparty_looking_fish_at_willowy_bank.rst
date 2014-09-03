@@ -1,10 +1,10 @@
 OpenParty &quot;柳岸寻鱼&quot;
-##########################
+##############################
 :date: 2009-06-21 15:03
 :category: Event
 :status: draft
 
-六月份再度归来的`OpenParty "柳岸寻鱼"`_，话题依然很足料。
+六月份再度归来的 OpenParty "柳岸寻鱼" ，话题依然很足料。
 大家只消看一下话题投票时的题目，就可知道这会是怎样一个观点和知识激情碰撞的下午：题目涉及包括技术管理、Mozilla
 Fennec、译言带来的翻译版权话题、催眠体验、信息存储转发架构、智能推荐系统、企业开发中的RoR、IT眼保健、中国内家拳法...
 还是简要谈一下自己参加的话题：
@@ -24,8 +24,7 @@ One、SVD的分别介绍，随后就是激动人心的实践，而一开始我�
 此外有个想法，不知道以后的OpenParty是否会采纳。增添一个白板区域，供大家以文字信息的形式进行交流。这可以说是三分钟讲话的文字版本。参加的朋友可以提前准备好关于自己的作品/想法/观点的介绍，附上自己的联系方式，然后在粘贴OpenParty上白板上。我认为这样为大家又增添了一个交流的途径，而且几乎不增加什么时间及物质上的成本。另外还是希望可以添加关于首次参加的朋友的自我介绍。就我个人几次参与的经验来看，很多第一次来参加的朋友，很多都有一些很有意思的想法和主题，也渴望和大家分享。多多给予他们热情的反馈和认同，更彰显OpenParty的开放本色。当然这个部分可以和三分钟讲话一起，只需要主持人稍加说明即可。
 最近的一个体会是，时间越来越紧凑，听各种话题的时间，和朋友交流的时间，基本上在一个下午很难安排，很是纠结。没聊够的只好放到下回，与大家七月再见。
 
-.. _OpenParty
-"柳岸寻鱼": http://www.beijing-open-party.org/index.php/2009/06/beijing-openparty-2009-06-looking-fish-at-willowy-bank-event-preview.html
+.. _OpenParty"柳岸寻鱼": http://www.beijing-open-party.org/index.php/2009/06/beijing-openparty-2009-06-looking-fish-at-willowy-bank-event-preview.html
 .. _移动版网站: http://cnborn.net/blog/2009/04/checknerds-iphone-ipodtouch-version-announced.html
 .. _超群: http://www.fuchaoqun.com/
 .. _这里: http://www.fuchaoqun.com/2009/05/recommender-system/

@@ -1,5 +1,5 @@
 CPyUG 09年9月5日会课记录
-#################
+##########################
 :date: 2009-09-13 16:01
 :category: Event
 :status: draft
@@ -48,12 +48,12 @@ Transfer Demon（存储待发送的信息） 的 Cache 内存化
 
 同时所有的消息同时也有持久性的存储。在硬盘上存储一个打包的数据（所谓的打包，是因为数据都相同，只是给不同的接收者，不是压缩），内存里存放的是单条的数据对应单个接收者。
 信息接受（用户发来的订阅信息）和发送分离
- 减少了磁盘I/O
+减少了磁盘I/O
 2009年时的运行情况
- 单日发送5-6千万
- 订购关系超过5千万
- 只有4台Server(因为单台的性能好过02年太多)
- 采用Python编写
+单日发送5-6千万
+订购关系超过5千万
+只有4台Server(因为单台的性能好过02年太多)
+采用Python编写
 ---
 总结，优化性能的要点
 
@@ -98,7 +98,7 @@ Python模块里使用了asynccore --> 一个原生核心模块
 ---
 将自己思考的一点儿小东西先应用于一个数据库导入脚本的优化上进行了尝试，强化了一下自己对于上面讲到一些基本观点的印象。
 这个导入脚本处理十余万条记录，中间经过数据处理，并将其导入一个格式
- 不同的数据库中。
+不同的数据库中。
 采用Python+SQLAlchemy编写，原始的第一稿性能非常不好，导入千条记录都要几分钟。于是开始着手进行优化。
 用Python的cProfile定位性能瓶颈:
 
@@ -108,12 +108,12 @@ Python模块里使用了asynccore --> 一个原生核心模块
 -  然后变成了数据库的query ---> 优化数据库query，加入cache，后来整体数据内存化
 -  直到最后的速度达到令人满意的境地
 
-注：Python 的 cProfile 和 `youxu 说的`_一样，只用一行语句就可以实现详尽的 profiling, 太方便了
+注：Python 的 cProfile 和 `youxu 说的`_ 一样，只用一行语句就可以实现详尽的 profiling, 太方便了
 完全应用了上面提到的性能优化原则：
- 让数据靠近CPU --- 这个其实还可以把导入的原始库放在本地，并且采用效率更高的数据库引擎等方法来实现。
- Cache内存化 --- 把数据尽可能放在内存中
- 队列遍历在内存中进行
- 慢I/O是系统的瓶颈 --- 把读取和写入数据库的次数降到最小
+让数据靠近CPU --- 这个其实还可以把导入的原始库放在本地，并且采用效率更高的数据库引擎等方法来实现。
+Cache内存化 --- 把数据尽可能放在内存中
+队列遍历在内存中进行
+慢I/O是系统的瓶颈 --- 把读取和写入数据库的次数降到最小
 效率：刚写出来时的版本（完全没考虑速度）估计导入全库的时间要10余个小时，更改了数据库操作的方式后，所需时间为原来的1/3，加入内存Cache以后，速度又快了一倍,
 最后把所有数据内存化，整个导入完成的速度是6-6.5分钟。目前源数据库和目标数据库都在远程，如果搬到本地，再进行下数据库引擎的优化，应该还有优化的余地。我想用这个简单得不能再简单的小东西来描述和体验一下让程序高效率的原则，还是十分合适的。
 ---
@@ -122,8 +122,8 @@ Cabinet的内容，讲得非常好，我记录得也很详细。但是自己没�
 
 .. _hdcola: http://blog.opensource.org.cn/hdcola/
 .. _youxu
-说的: http://blog.youxu.info/2008/10/29/seven-habits-of-highly-effective-programmers/
+ 说的: http://blog.youxu.info/2008/10/29/seven-habits-of-highly-effective-programmers/
 
-.. |cpyug\_hd\_archi\_c1.png| image:: http://cnborn.net/blog/images/cpyug_hd_archi_c1.png
-.. |cpyug\_hd\_archi\_c2.png| image:: http://cnborn.net/blog/images/cpyug_hd_archi_c2.png
-.. |cpyug\_hd\_archi\_c3.png| image:: http://cnborn.net/blog/images/cpyug_hd_archi_c3.png
+.. |cpyug_hd_archi_c1.png| image:: http://cnborn.net/blog/images/cpyug_hd_archi_c1.png
+.. |cpyug_hd_archi_c2.png| image:: http://cnborn.net/blog/images/cpyug_hd_archi_c2.png
+.. |cpyug_hd_archi_c3.png| image:: http://cnborn.net/blog/images/cpyug_hd_archi_c3.png

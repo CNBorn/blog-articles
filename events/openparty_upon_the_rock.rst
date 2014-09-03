@@ -1,5 +1,5 @@
 OpenParty &quot;岩上&quot;
-########################
+###########################
 :date: 2009-12-21 01:44
 :category: Event
 :status: draft
@@ -80,5 +80,4 @@ Tab
 
 .. _OpenParty: http://www.beijing-open-party.org/
 .. _@hengdm: http://twitter.com/hengdm
-.. _iPhone Human Interface
-Guideline: http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html
+.. _iPhone Human Interface Guideline: http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html

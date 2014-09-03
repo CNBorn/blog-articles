@@ -1,11 +1,11 @@
 OpenParty &quot;清雨榕香&quot;
-##########################
+##############################
 :date: 2010-09-12 23:00
 :category: Event
-:status: draft
+:lang: cn
 
 `2010年8月的OpenParty
-"清雨榕香"活动`_创下了各个话题参与人数的新高，很多话题的会议室都密密地站满了人，在各个热门话题的驱使下，大家的热情依然不减，在一个下午的时间里体验了一个又一个知识分享的小高潮。关于活动话题的详情，请参见`OpenParty网站`_上关于本次活动的`链接`_，下面简要记叙下我参与的几个话题的相关信息。
+"清雨榕香"活动`_ 创下了各个话题参与人数的新高，很多话题的会议室都密密地站满了人，在各个热门话题的驱使下，大家的热情依然不减，在一个下午的时间里体验了一个又一个知识分享的小高潮。关于活动话题的详情，请参见`OpenParty网站`_上关于本次活动的`链接`_，下面简要记叙下我参与的几个话题的相关信息。
 首先是来自淘宝网的苏宁带来的"淘宝广告技术部开发流程和Scrum实践"，淘宝的Scrum实践一直应用于广告竞价系统的开发，取得了一些成果。想必大家都想要细细了解一下Scrum在大公司内部的实际应用案例，这个话题提供了很多相关的信息，帮助大家更好地了解Scrum以及实践Scrum时会遇到的一些问题。我的记录基本上遵循了讲解时的Slide结构，有一些内容是从现场的讲解中了解到的，也补充了进去。
 Sprint 刚开始时
 
@@ -149,15 +149,15 @@ Sprint分解会
 
 接下来是由豆瓣的工程师石头带来的"从豆瓣Pulse谈起 - HTML5 相关技术在实际项目或产品中的应用"话题
 
-`|op20100828\_douban\_html5\_1.jpg|`_HTML5在视觉，交互等诸多领域，为Web带来了全新的体验
+HTML5在视觉，交互等诸多领域，为Web带来了全新的体验
 最大的问题：浏览器兼容性 - 应该有意识地去引导用户使用性能更高，功能更多的现代浏览器，
 CSS3技术非常的绚丽，很多
 
 .. _2010年8月的OpenParty
-"清雨榕香"活动: http://app.beijing-open-party.org/event/3
+ "清雨榕香"活动: http://app.beijing-open-party.org/event/3
 .. _OpenParty网站: http://app.beijing-open-party.org/
 .. _链接: http://app.beijing-open-party.org/event/3
 .. _|image1|: http://cnborn.net/blog/assets_c/2010/09/DSC_2453-190.html
 
-.. |op20100828\_douban\_html5\_1.jpg| image:: http://cnborn.net/blog/assets_c/2010/09/DSC_2453-thumb-500x335-190.jpg
+.. |op20100828_douban_html5_1.jpg| image:: http://cnborn.net/blog/assets_c/2010/09/DSC_2453-thumb-500x335-190.jpg
 .. |image1| image:: http://cnborn.net/blog/assets_c/2010/09/DSC_2453-thumb-500x335-190.jpg

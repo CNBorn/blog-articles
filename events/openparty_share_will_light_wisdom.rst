@@ -1,5 +1,5 @@
 OpenParty &quot;聚萤&quot;
-########################
+###########################
 :date: 2010-01-31 23:51
 :category: Event
 :status: draft
@@ -27,7 +27,7 @@ ThoughtWorks如何进行需求分析
 
 粒度最好可以控制到，单一发布中，每两周一个迭代。
 
-这期间最重要的，是**了解**业务、**分解**业务。这在各个领域、各个公司、各种情况下都不同，没有规则可以遵循。
+这期间最重要的，是\**了解\**业务、\**分解\**业务。这在各个领域、各个公司、各种情况下都不同，没有规则可以遵循。
 
 项目启动阶段（概要分析阶段）
 
@@ -47,9 +47,7 @@ ThoughtWorks如何进行需求分析
 
 （卡片范例）
 
-`|image0|`_
-
-来自：`http://www.agilemodeling.com/artifacts/userStory.htm`_
+来自： `http://www.agilemodeling.com/artifacts/userStory.htm`_
 
 为什么用卡片：单一的需求文档只是信息的聚合，而分解为可以量化和检索的知识，更加便于我们评估和分析。
 
@@ -98,7 +96,7 @@ UserStory的生命周期：使用Mingle管理，建立 StoryWall
 
 这其实更是一种管理技巧与方法，而不是具体的技术问题。如果仅从一个(懒惰的)程序员自身的角度出发，那么整套东西基本是很多看起来奇怪、有些还打破了日常工作习惯的行为准则的堆砌。但如果你有幸能够参与多个角色（如同时作为产品的销售、开发、决策人员其中的数职），来从一个更高的高度来审视并经历过一个或数个软件项目的时候，就会发现这些行为准则完全都是为了一个清晰的目标：为了按时、高质量地完成软件项目。同时竭力避免软件项目各个过程中各种由于人员、交流以及其它问题所造成的不利影响。
 
-结尾的时候钱钱推荐了一本书：`User Stories Applied`_ ---- TW敏捷需求分析师必读，欢迎感兴趣的朋友参阅。
+结尾的时候钱钱推荐了一本书： `User Stories Applied`_ ---- TW敏捷需求分析师必读，欢迎感兴趣的朋友参阅。
 
 ----
 
@@ -108,9 +106,9 @@ Mozilla在会场展示了火狐中文版本的一个功能，"火狐魔镜"。�
 
 ----
 
-接下来就是`超群`_带来的MongoDB介绍。通过超群抛砖引玉的介绍，让听众对于MongoDB的特性有了比较好的了解。
+接下来就是 `超群`_ 带来的MongoDB介绍。通过超群抛砖引玉的介绍，让听众对于MongoDB的特性有了比较好的了解。
 
-具体的信息可以参考当时演讲的slides: `MongoDB in Action`_很适合入门，同时MongoDB 项目的
+具体的信息可以参考当时演讲的slides: `MongoDB in Action`_ 很适合入门，同时MongoDB 项目的
 `Tutorial`_ 也值得推荐。
 
 我再次简要描述一下大家普遍关注的几个方面：
@@ -146,8 +144,7 @@ GridFS 内建的文件系统
 .. _`http://www.agilemodeling.com/artifacts/userStory.htm`: http://www.agilemodeling.com/artifacts/userStory.htm
 .. _User Stories Applied: http://www.douban.com/subject/1610317/
 .. _超群: http://www.fuchaoqun.com/
-.. _MongoDB in
-Action: http://www.fuchaoqun.com/2010/01/mongodb-in-action/
+.. _MongoDB in Action: http://www.fuchaoqun.com/2010/01/mongodb-in-action/
 .. _Tutorial: http://www.mongodb.org/display/DOCS/Tutorial
 .. _`http://www.mongodb.org/display/DOCS/Benchmarks`: http://www.mongodb.org/display/DOCS/Benchmarks
 

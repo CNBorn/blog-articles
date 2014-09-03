@@ -1,5 +1,5 @@
 美丽的事情
-#####
+##########
 :date: 2007-01-12 23:32
 :category: Uncategorized
 :status: draft

@@ -1,8 +1,8 @@
-Google Developer Day 2009, Beijing
-##################################
-:date: 2009-06-15 02:04
-:category: Event
-:status: draft
+Title: Google Developer Day 2009, Beijing
+Date: 2009-06-15 02:04
+Category: Event
+Lang: cn
+Slug: google-developer-day-2009-beijing
 
 参加了6月5日的 Google Developer Day 2009, Beijing，这是一个迟到的总结。
 总体来说，会议期间的课程倒是并没有给我太大的收获，认真听的两个课程(AppEngine)全都中规中矩，没有提供什么特别新颖的东西。反倒是开场时演示的Google
@@ -14,10 +14,6 @@ Wave，都以Web未来基础的面貌出现。在竞争对手仍在以老旧的�
 那天对我来说真正的亮点，是晚上的"谷歌技术开发晚宴"。这才是一场真正的Geek狂欢盛会。布满灯光的硕大会场、具备Google风格，肆意拜访的沙包椅、酒水饮料......
 实在是众多Geek们少有的体验。说那里是个充满Geek风格的Woodstock应该不为过。
 自己还有幸参与了Google的开发者演讲。短小的演讲讲述不了太多的东西，而且正如我之前说的，真正具有震撼效果的开发者应用还太少，所以我对于讲述自己的产品如何通过具体的代码来实现一个小功能也十分不以为然。我更关注这个产品以后的潜力。于是就着重描述了未来的构想。(可以透露的是，在不长的时间里大家就可以看到
-`CheckNerds`_ 的这个更新) -
+[CheckNerds](http://checknerds.appspot.com) 的这个更新) -
 "已经做了什么"并不重要，重要的是"我们还能做什么"。现在回想起来我猛然发现，这也是Google的观点，所以它们一直在向新的标准迈进。
-另外自爆一下，想看这次我的演讲是什么样子的朋友，请`猛点这里`_，如果footbig当掉了看不到，还可以`猛点这里`_
-
-.. _CheckNerds: http://www.checknerds.com/
-.. _猛点这里: http://footbig.com/photo/454219
-.. _猛点这里: http://www.facebook.com/photo.php?pid=30443053&l=ee6028e0a4&id=1443409618
+另外自爆一下，想看这次我的演讲是什么样子的朋友，请[猛点这里](http://www.facebook.com/photo.php?pid=30443053&l=ee6028e0a4&id=1443409618)

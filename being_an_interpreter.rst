@@ -1,5 +1,5 @@
 关于口译的经验
-#######
+#########################
 :date: 2007-04-23 00:18
 :category: Uncategorized
 :status: draft

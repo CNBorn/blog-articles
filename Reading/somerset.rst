@@ -4,6 +4,7 @@
 :date: 2012-01-08
 :tags: 毛姆, 读书
 :slug: Somerset
+:lang: cn
 
 今天晚上读完了《观点》里面的《圣者》一篇。
 

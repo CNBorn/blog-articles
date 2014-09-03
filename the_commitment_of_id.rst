@@ -3,6 +3,7 @@ id的承诺
 :date: 2007-08-11 04:27
 :slug: the-commitment-of-id
 :category: memo
+:lang: cn
 
 John Carmack 在Quake III发行之前说过："如果Quake III的销量是我们以前产品最好销量的两倍，我将建立一个持久稳定的网上动作游戏世界。" （自
 `《永远的雷神》

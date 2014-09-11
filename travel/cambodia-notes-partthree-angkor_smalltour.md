@@ -1,7 +1,7 @@
 Title: 柬埔寨背包记三：风雨中的吴哥
 Date: 2009-12-14 22:33
 Category: Traveling
-Lang: cn
+Lang: zh
 Tags: cambodia
 Slug: cambodia-notes-partthree-angkor-smalltour
 
@@ -13,18 +13,18 @@ Slug: cambodia-notes-partthree-angkor-smalltour
 
 和昨天傍晚热闹的情景不同，今天的景象颇为平和，人也少了许多，估计是大雨打消了不少游客前来的念头。穿过满是积水的门廊后，终于瞥见了这座向往了许久的宏大庙宇。
 
-![](images/travel/cambodia/35-angkorwat_siemreap-thumb-320x161-31.jpg)
+![]({filename}/images/travel/cambodia/35-angkorwat_siemreap-thumb-320x161-31.jpg)
 
 在外围仰望了许久才进入中心建筑的内部。首先感到震撼的就是中心寺庙外围800米长的浅浮雕，虽然大多数游客可能并没有时间和经历完全消化掉这些精美浮雕所呈现的史诗般的历史故事，但是这伟大的艺术佳作和对于细节的追求，确实令人赞叹。
 
 继续进入，就发现那些细节之美，体现在这里建筑的各个部分之上，那些800年前的雕刻，就完整地呈现在你视线所及的方方面面，墙上、廊柱上、屋檐上......
 那些让你惊异的细节无处不在。
 
-![](images/travel/cambodia/56-angkorwat_collection2_siemreap-thumb-640x432-55.jpg)
+![]({filename}/images/travel/cambodia/56-angkorwat_collection2_siemreap-thumb-640x432-55.jpg)
 
 走近吴哥窟的核心----五座中心塔，庞大而华丽的圣殿出现在眼前，而那陡峭的台阶让人望而怯步。不过现实中，也不得不"怯步"，因为中心塔部分修复工作中，不允许游客登塔参观。颇为遗憾，但在它脚下的确更能感受其宏大和壮观。
 
-![](images/travel/cambodia/53-angkorwat_collection1_siemreap-thumb-640x432-52.jpg)
+![]({filename}/images/travel/cambodia/53-angkorwat_collection1_siemreap-thumb-640x432-52.jpg)
 
 冒着雨继续游走，继续品味整个建筑群的对称美以及象征意义。但这雨天太糟糕，光线太亮，极不适合拍照。总共用了大约三个小时。
 
@@ -34,7 +34,7 @@ Slug: cambodia-notes-partthree-angkor-smalltour
 
 路过华丽壮观的吴哥南门后，就到达了巴戎寺。巴戎寺最负盛名就是其的数百个"高棉的微笑"雕塑了。在启程出发去柬埔寨之前，这雕塑的照片在我的iPod上面停留了数月之久，作为激励我去柬埔寨的标志。这次终于亲眼看到了。沿着陡峭的台阶爬上二层，立刻被众多面孔围绕的神秘气息包围了。近距离欣赏那些微笑的面孔，尝试找到我的iPod壁纸里的那个。但是最后还是没能找到一样的。
 
-![](images/travel/cambodia/37-bayon_siemreap-thumb-320x223-32.jpg)
+![]({filename}/images/travel/cambodia/37-bayon_siemreap-thumb-320x223-32.jpg)
 
 这时雨开始变大，很不舒服。照片中的天空亮得刺眼。想想自己几近湿透地在雨中揣着单反，按着iPod Touch的样子，这也就是八九个世纪以来，朝觐者的变化吧。
 
@@ -42,7 +42,7 @@ Slug: cambodia-notes-partthree-angkor-smalltour
 
 穿过了吴哥王城的东门（胜利门），拍下了一张满意的照片。
 
-![](images/travel/cambodia/45-victorygate_angkor_siemreap-thumb-320x214-44.jpg)
+![]({filename}/images/travel/cambodia/45-victorygate_angkor_siemreap-thumb-320x214-44.jpg)
 
 然后路过了周萨神庙以及其对面的Thommanon。中国修复队主要在对周萨神庙进行修复工作。但是我对中国团队主持的修复工作不是很满意，从细节上看，诸如用水泥添补雕塑等做法很有些偷工减料的样子。先前在网络上的照片就略有耳闻，但现场看到还是让我觉得有些吃惊和惭愧，加上雨下得特别大，也就没有怎么深入地参观里面。
 
@@ -50,7 +50,7 @@ Slug: cambodia-notes-partthree-angkor-smalltour
 
 下一站茶胶寺。昨天晚饭时就听那两个北京女孩说，其台阶非常陡峭，天气不错的话，爬上去以后风景非常好。但在这阴沉的天色下，风景是看不到了。可台阶还是一样地陡峭，感觉在湿漉漉的雨中，穿着拖鞋往上爬只是让我觉得更加危险。茶胶寺的台阶大约有一个手掌宽，而每一级台阶的高度大约是半米，也就是说，向上爬的时候，脚要横过来才能保证脚踩实地爬上去。总体说来，整个茶胶寺就是一个坡度大约为70度，高度几十米的金字塔式建筑。爬上去还算好，爬下来就更是恐怖，由于坡度的关系，从上面看下去，台阶就像是笔直的一样，脚上穿着拖鞋，背着大书包，一个打滑简直就不可想象后果了（见下图）。所以为了安全第一，走一步就在台阶上一坐，然后再迈下一步，这样就稳妥多了。爬上去以后更多的是成就感，而非景色。天气太差，四周的景色基本已经完全看不清了。但这让人精神紧绷的体验在远观茶胶寺时完全体会不到，远观时，它只是一座宏伟、壮观的美丽建筑，这截然不同的体验真是让人印象深刻。隔了一天后我重访茶胶时，它的样子简直让人沉醉，在后面的游记中还将有它最美的全景照片。
 
-![](images/travel/cambodia/47-takeo_siemreap-thumb-640x210-34.jpg)
+![]({filename}/images/travel/cambodia/47-takeo_siemreap-thumb-640x210-34.jpg)
 
 结束了惊心动魄的茶胶寺之旅，启程前往吴哥区域最期待的寺庙之一，塔布隆(Ta Phnom)寺。
 
@@ -60,11 +60,11 @@ Slug: cambodia-notes-partthree-angkor-smalltour
 
 著名的"古墓丽影"之树（下图右上）更是期待已久的著名景色。
 
-![](images/travel/cambodia/42-taphnom_collection_siemreap-thumb-640x432-33.jpg)
+![]({filename}/images/travel/cambodia/42-taphnom_collection_siemreap-thumb-640x432-33.jpg)
 
 我记住了当时路过的一位美国游客的话，"In there, it seems that the nature is taking over.", 的确，在这里，自然控制一切，当自己脚陷泥土，冒着大雨在这座令人畏惧的大寺庙参观时，我想我对所有的这些寺庙来说，都只是一个谦卑的祈祷者而已。
 
-![](images/travel/cambodia/50-entrance_taphnom_siemreap-thumb-320x214-49.jpg)
+![]({filename}/images/travel/cambodia/50-entrance_taphnom_siemreap-thumb-320x214-49.jpg)
 
 从塔布隆出来，道路上的积水越来越严重了。赶往路线上的下一座庙宇Banteay
 Kdei，但其入口前的水早已形成了一条几近膝盖、水流湍急的小河。若想进入景点，非得趟几十米的水才能进去...... 自己只好小心翼翼地趟进去。
@@ -73,7 +73,7 @@ Kdei，但其入口前的水早已形成了一条几近膝盖、水流湍急的�
 
 Banteay Kdei 主路的大石板在下雨的时候非常滑，大家务必小心，我有好几次都险些滑倒。
 
-![](images/travel/cambodia/40-banteaykdei_siemreap-thumb-320x214-39.jpg)
+![]({filename}/images/travel/cambodia/40-banteaykdei_siemreap-thumb-320x214-39.jpg)
 
 大约看了一半，雨下得更大了，蚊虫还很多，而且走了半天，还是没见到一个别的游客，天又迅速地黑下来，于是就折返了。
 

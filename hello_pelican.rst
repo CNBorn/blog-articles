@@ -5,7 +5,7 @@ Hello, Pelican
 :date: 2012-01-09 02:01
 :category: Tech
 :author: CNBorn
-:lang: cn
+:lang: zh
 
 在原先的
 `Blog

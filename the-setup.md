@@ -1,7 +1,7 @@
 Date: 2012-11-09
 Title: The Setup
 Tags: setup, usethis
-Lang: cn
+Lang: zh
 Slug: the-setup
 
 上周末接受了[The Setup中文版](http://setup.xiuxiu.de/)的[采访](http://setup.xiuxiu.de/interviews/cnborn/)。用The Setup中文版上“关于”部分的话来说，就是“The Setup是一个介绍你身边那些的极客们如何搞定自己的生活的小站。”原版 [http://usesthis.com](http://usesthis.com) 之前身边有朋友一直很喜欢，平时读起来也的确很有趣，带着八卦的心情来看看大家都用了什么Gadget，是不错的休闲。

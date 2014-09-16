@@ -10,7 +10,7 @@ I found _Shadow of Hegemon_ at a local bookstore’s on sale event, on which its
 
 In order to make most of my reader unspoiled, I’d made a brief conclusion here: **It is an intense story-telling experience, a full drama with conspiracy, political domination and personal ambition. But it is not perfect, and no better than its predecessor: _Ender’s Shadow_. Reading this book, as it is an important part of the enderverse for a fan, is worthwhile but don’t expect this book is another masterpiece among both the _Ender_ and _Shadow_ series.**
 
-> Caution: Spoiler Alert! You can stop here if you want your reading experience of _Shadow of Hegemon_ untouched.
+> **Caution: Spoiler Alert!** You can stop here if you want your reading experience of _Shadow of Hegemon_ untouched.
 
 The good part of _Shadow of Hegemon_ is that some scenes are reminding me of both _Ender’s Game_ and _Ender’s Shadow_’s highlight: How a rational person with intelligence thinks about leadership and tackles difficulties, and how do they manage relationships with others. It is, in my point of view, the most important and valuable part of _Ender’s Game_. Such scenes as Bean’s training with special Thai forces is pleasant and enjoyable. Unfortunately, this part is consists only a small faction of the whole book.
 

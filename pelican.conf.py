@@ -2,8 +2,8 @@
 AUTHOR = u'Tyler Xing'
 SITENAME = u"Tyler Xing"
 TAGLINE = u"Dharma's truth"
-# SITEURL = 'http://cnborn.net/blog/'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://cnborn.net/blog/'
+# SITEURL = 'http://localhost:8000'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
@@ -32,7 +32,7 @@ PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = ""
 DEFAULT_DATE_FORMAT = "%Y.%m.%d"
-DEFAULT_PAGINATION = 1000
+DEFAULT_PAGINATION = 1
 DEFAULT_ORPHANS = 0
 GOOGLE_ANALYTICS = "UA-329713-5"
 
@@ -46,7 +46,7 @@ MENUITEMS = (
     ('Reading', '/blog/category/Reading/'),
     ('Travel', '/blog/category/Traveling/'),
     ('EN', '/blog/lang/en/'),
-    ('CN', '/blog/lang/cn/'),
+    ('ZH', '/blog/lang/zh/'),
 )
 
 LINKS = ()

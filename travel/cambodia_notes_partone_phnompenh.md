@@ -1,7 +1,7 @@
 Title: 柬埔寨背包记一：旅程的起点，金边
 Date: 2009-11-22 11:59
 Category: Traveling
-Lang: cn
+Lang: zh
 Tags: cambodia
 Slug: cambodia-notes-partone-phnompenh
 

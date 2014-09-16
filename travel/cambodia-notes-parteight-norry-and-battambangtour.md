@@ -1,7 +1,7 @@
 Title: 柬埔寨背包记八：竹车及马德望之旅
 Date: 2010-05-09 22:45
 Category: Traveling
-Lang: cn
+Lang: zh
 Tags: cambodia
 Slug: cambodia-notes-parteight-norry-and-battambangtour
 

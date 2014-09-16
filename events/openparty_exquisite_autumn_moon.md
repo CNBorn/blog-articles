@@ -2,7 +2,7 @@ Title: OpenParty &quot;玲珑秋月&quot;
 Date: 2010-11-15 18:55
 Category: Event
 Tags: openparty
-Lang: cn
+Lang: zh
 Slug: openparty-exquisite-autumn-moon
 
 

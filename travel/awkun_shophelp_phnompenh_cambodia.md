@@ -1,7 +1,7 @@
 Title: Aw&#039;-Kun SHOP+HELP @ Phnom Penh, Cambodia
 Date: 2009-10-24 01:50
 Category: Traveling
-Lang: cn
+Lang: zh
 Tags: cambodia
 Slug: awkun-shop+help-at-phnom-penh-cambodia
 

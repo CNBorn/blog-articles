@@ -1,7 +1,7 @@
 Title: 柬埔寨背包记七：洞里萨湖及假日的马德望
 Date: 2010-04-27 00:22
 Category: Traveling
-Lang: cn
+Lang: zh
 Tags: cambodia
 Slug: cambodia-notes-partseven-tonlesaplake-and-battambang
 

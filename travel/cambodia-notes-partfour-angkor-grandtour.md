@@ -1,7 +1,7 @@
 Title: 柬埔寨背包记四：风雨过后
 Date: 2010-01-12 23:11
 Category: Traveling
-Lang: cn
+Lang: zh
 Slug: cambodia-notes-partfour-angkor-grandtour
 Tags: cambodia
 

@@ -1,7 +1,7 @@
 Title: OpenParty &quot;有狐&quot;
 Date: 2009-03-14 10:42
 Category: Event
-Lang: cn
+Lang: zh
 Tags: OpenParty
 Slug: openparty-mozilla-event
 

@@ -1,7 +1,7 @@
 Title: 柬埔寨背包记九：旅途的终章
 Date: 2010-07-04 23:43
 Category: Traveling
-Lang: cn
+Lang: zh
 Tags: cambodia
 Slug: cambodia-notes-partnine-finale-of-the-tour
 

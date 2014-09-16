@@ -1,7 +1,7 @@
 Title: Google Developer Day 2009, Beijing
 Date: 2009-06-15 02:04
 Category: Event
-Lang: cn
+Lang: zh
 Slug: google-developer-day-2009-beijing
 
 参加了6月5日的 Google Developer Day 2009, Beijing，这是一个迟到的总结。

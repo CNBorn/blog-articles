@@ -1,6 +1,6 @@
 Date: 2009-06-20 01:53
 Title: 谈谈 BetaCamp, TEDxShanghai 等活动
-Lang: cn
+Lang: zh
 Category: Event
 Slug: talk-about-betacamp-tedxshanghai
 

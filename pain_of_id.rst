@@ -3,7 +3,7 @@ id之痛
 :date: 2009-08-21 20:47
 :slug: pain-of-id
 :category: memo
-:lang: cn
+:lang: zh
 
 id的新作Wolfenstein在GameTrailers上被打了一个很低的分数。
 `Video Review

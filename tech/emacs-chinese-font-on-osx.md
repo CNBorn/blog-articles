@@ -14,12 +14,12 @@ OS X 升级到 Mavericks 之后，Emacs 24 的缺省中文字体意外地成为�
 
 附:
 
-### 个人推荐开源的 [Source&trade; Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960) 字体，适合代码及英文写作工作。
+#### 个人推荐开源的 [Source&trade; Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960) 字体，适合代码及英文写作工作。
 
     (set-default-font "Source Code Pro 24”)
 
 后面的24是默认字号，因我的设备 (2010 MacBook Pro 17’) 的屏幕点距关系，我的默认配置字体偏大。
 
-### 察看系统中安装的所有字体名称 (键入后按 C-j 执行)
+#### 察看系统中安装的所有字体名称 (键入后按 C-j 执行)
 
      (print (font-family-list))

@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Tyler Xing'
 SITENAME = u"Tyler Xing"
-TAGLINE = u"Dharma's truth"
+TAGLINE = u""
 SITEURL = 'http://cnborn.net/blog/'
-# SITEURL = 'http://localhost:8000'
+SITEURL = 'http://localhost:8000/blog/'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
@@ -36,8 +36,8 @@ DEFAULT_PAGINATION = 1
 DEFAULT_ORPHANS = 0
 GOOGLE_ANALYTICS = "UA-329713-5"
 
-PLUGIN_PATHS = ['/Users/benxing/Projects/',]
-PLUGINS = ['pelican-langcategory']
+PLUGIN_PATHS = ['/Users/tylerxing/Projects/blog/pelican-langcategory/',]
+PLUGINS = ['langcategory']
 
 LANGUAGE_URL = 'lang/{lang}/'
 LANGUAGE_SAVE_AS = 'lang/{lang}/index.html'
@@ -45,8 +45,8 @@ LANGUAGE_SAVE_AS = 'lang/{lang}/index.html'
 MENUITEMS = (
     ('Reading', '/blog/category/Reading/'),
     ('Travel', '/blog/category/Traveling/'),
-    ('EN', '/blog/lang/en/'),
-    ('ZH', '/blog/lang/zh/'),
+    ('English', '/blog/lang/en/'),
+    ('Chinese', '/blog/lang/zh/'),
 )
 
 LINKS = ()

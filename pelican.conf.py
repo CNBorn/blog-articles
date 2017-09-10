@@ -43,8 +43,6 @@ LANGUAGE_URL = 'lang/{lang}/'
 LANGUAGE_SAVE_AS = 'lang/{lang}/index.html'
 
 MENUITEMS = (
-    ('Reading', '/blog/category/Reading/'),
-    ('Travel', '/blog/category/Traveling/'),
     ('English', '/blog/lang/en/'),
     ('Chinese', '/blog/lang/zh/'),
 )

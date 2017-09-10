@@ -6,7 +6,7 @@ Slug: projects
 
 Brings some of the best temples of Khmer Civilization to your mobile phone & tablet.
 
-<https://play.google.com/store/apps/details?id=com.cnborn.khmertemples>
+[Download at Google Play](https://play.google.com/store/apps/details?id=com.cnborn.khmertemples)
 <http://khmertemples.in/>
 
 

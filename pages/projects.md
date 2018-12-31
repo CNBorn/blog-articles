@@ -14,9 +14,3 @@ Brings some of the best temples of Khmer Civilization to your mobile phone & tab
 
 - [Download at Google Play](https://play.google.com/store/apps/details?id=com.cnborn.khmertemples)
 - <http://khmertemples.in/>
-
-#### OfficialTV.live
-
-FREE official live tv streams, Available on your TV, Video Game Console(PS4, Xbox One), desktop, tablet & mobile devices.
-
-<http://officialtv.live/>

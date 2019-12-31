@@ -2,8 +2,8 @@
 AUTHOR = u'Tyler Xing'
 SITENAME = u"Tyler Xing"
 TAGLINE = u""
-SITEURL = 'http://cnborn.net/blog/'
-SITEURL = 'http://localhost:8000/blog/'
+SITEURL = 'http://cnborn.net/blog'
+#SITEURL = 'http://localhost:8000/blog'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 1
 DEFAULT_ORPHANS = 0
 GOOGLE_ANALYTICS = "UA-329713-5"
 
-PLUGIN_PATHS = ['/Users/tylerxing/Projects/blog/pelican-langcategory/',]
+PLUGIN_PATHS = ['/Users/benxing/Projects/pelican-langcategory/',]
 PLUGINS = ['langcategory']
 
 LANGUAGE_URL = 'lang/{lang}/'

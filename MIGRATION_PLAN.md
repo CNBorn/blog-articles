@@ -32,7 +32,7 @@ rm -rf content/posts content/pages
 python3 tools/migration/convert.py tools/migration/online.json legacy/pelican content
 hugo --cleanDestinationDir
 python3 tools/migration/compare.py public            # per-page diff against the online mirror
-npx wrangler pages dev public --port 8788             # local Pages emulation (_redirects/_headers)
+npx wrangler dev --port 8788                          # local emulation (_redirects/_headers)
 bash tools/migration/verify.sh http://127.0.0.1:8788  # every old URL + legacy redirects
 ```
 
@@ -56,7 +56,10 @@ bash tools/migration/verify.sh http://127.0.0.1:8788  # every old URL + legacy r
 - All internal `http://cnborn.net/...` links are root-relative, so HTTPS has no mixed content.
 - Disqus comments are kept (HTTPS embed). The dead Universal Analytics snippet is dropped.
 - `/` is a 302 (not 301) to `/blog/`, so the root can later move to the new site without stale caches.
-- Cloudflare Pages strips `.html` with a 308 (`/blog/archives.html` → `/blog/archives`); both work.
+- Hosting: `wrangler pages project create` (wrangler 4.166) now creates a Workers project with static assets
+  (`wrangler.jsonc`, worker `cnborn-blog`, served from `public/`), not a classic Pages project.
+  `_redirects` and `_headers` work the same. Redeploy with `hugo --cleanDestinationDir && npx wrangler deploy`.
+- `.html` URLs are redirected to the extensionless path (307 on Workers, 308 on classic Pages); both work.
 
 ## Next stage (not started)
 

@@ -9,7 +9,7 @@ check() { # path expected_status [expected_location_suffix]
   out=$(curl -s -o /dev/null -w '%{http_code} %{redirect_url}' "$BASE$1")
   code=${out%% *}; loc=${out#* }
   n=$((n+1))
-  if [ "$code" != "$2" ] || { [ -n "$3" ] && [[ "$loc" != *"$3" ]]; }; then
+  if [[ "$code" != $2 ]] || { [ -n "$3" ] && [[ "$loc" != *"$3" ]]; }; then
     echo "FAIL $1 -> $code $loc (want $2 $3)"; fail=$((fail+1))
   fi
 }
@@ -37,7 +37,7 @@ while read -r f; do
   p="/$f"; p=${p%index.html}
   # percent-encode non-ascii for curl
   enc=$(python3 -c 'import sys,urllib.parse;print(urllib.parse.quote(sys.argv[1]))' "$p")
-  case "$p" in *.html) check "$enc" 308;; *) check "$enc" 200;; esac
+  case "$p" in *.html) check "$enc" 30[78];; *) check "$enc" 200;; esac
 done < <(cd "$ONLINE" && find . -type f | sed 's#^\./##' | sort)
 
 # headers

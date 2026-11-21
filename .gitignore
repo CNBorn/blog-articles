@@ -10,3 +10,4 @@ resources/
 !.dev.vars.example
 .env*
 !.env.example
+.bin/

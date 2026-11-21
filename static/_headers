@@ -1,0 +1,6 @@
+# Web fonts are loaded cross-origin by some readers; matches the old nginx CORS rule.
+/blog/theme/fonts/*
+  Access-Control-Allow-Origin: *
+
+/blog/feeds/*
+  Cache-Control: public, max-age=3600

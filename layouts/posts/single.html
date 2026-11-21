@@ -1,0 +1,31 @@
+{{ define "main" }}
+        <article>
+                <h1 class="title">
+                        <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+                </h1>
+
+                <div class='article-content'>
+{{ .Content }}
+                </div>
+
+                <div class="abbr published" title='{{ partial "published.html" . }}'>Posted {{ .Date.Format "2006.01.02" }}</div>
+
+                <div id="article_meta">
+                                Category:
+                                {{- range .GetTerms "categories" }}
+                                        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                                {{- end }}
+                                {{- with .GetTerms "tags" }}
+                                <br />Tags:
+                                {{- range . }}
+                                        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                                {{- end }}
+                                {{- end }}
+                </div>
+        </article>
+
+        <footer>
+                <a href="/blog/" class="button_accent">&larr;&nbsp;&nbsp;&nbsp;Back to blog</a>
+        </footer>
+{{ partial "comments.html" . }}
+{{ end }}

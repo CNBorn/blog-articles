@@ -1,0 +1,12 @@
+{{ define "title" }}{{ site.Title }} - {{ .Title }}{{ end }}
+{{ define "main" }}
+{{- range .Pages.ByDate.Reverse }}
+        <article class='listed'>
+            <h1 class="title">
+                <a href="{{ .RelPermalink }}" rel='bookmark'>{{ .Title }}</a>
+            </h1>
+            <div class="article-content"> {{ .Content }} </div>
+            <div class="abbr published">Posted <a href='{{ .RelPermalink }}' title='{{ partial "published.html" . }}'>{{ .Date.Format "2006.01.02" }}</a></div>
+        </article>
+{{- end }}
+{{ end }}

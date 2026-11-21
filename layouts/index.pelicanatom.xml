@@ -1,0 +1,5 @@
+{{- $posts := (partial "posts.html" .).ByDate.Reverse -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<feed xmlns="http://www.w3.org/2005/Atom"><title>{{ site.Title }}</title><link href="{{ absURL "blog/" }}" rel="alternate"></link><link href="{{ absURL "blog/feeds/all.atom.xml" }}" rel="self"></link><id>{{ absURL "blog/" }}</id>{{ with index $posts 0 }}<updated>{{ partial "published.html" . | safeHTML }}</updated>{{ end }}
+{{- range $posts }}<entry><title>{{ .Title }}</title><link href="{{ .Permalink | safeHTML }}" rel="alternate"></link><published>{{ partial "published.html" . | safeHTML }}</published><updated>{{ partial "published.html" . | safeHTML }}</updated><author><name>{{ site.Params.author }}</name></author><id>tag:cnborn.net,{{ .Date.Format "2006-01-02" }}:{{ .RelPermalink | safeHTML }}</id><content type="html">{{ .Content | replaceRE "(src|href)=\"/" "$1=\"https://cnborn.net/" | transform.XMLEscape | safeHTML }}</content>{{ range .GetTerms "categories" }}<category term="{{ .LinkTitle }}"></category>{{ end }}{{ range .GetTerms "tags" }}<category term="{{ .LinkTitle }}"></category>{{ end }}</entry>
+{{ end }}</feed>

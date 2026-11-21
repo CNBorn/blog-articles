@@ -1,0 +1,13 @@
+        <div id="comments">
+                <h2>Comments</h2>
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                        var disqus_identifier = "{{ strings.TrimPrefix "/blog/" .RelPermalink }}";
+                        (function() {
+                                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                                dsq.src = 'https://{{ site.Params.disqus }}.disqus.com/embed.js';
+                                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                </script>
+                <noscript>Please enable JavaScript to view <a href="https://disqus.com/?ref_noscript">comments</a>.</noscript>
+        </div>

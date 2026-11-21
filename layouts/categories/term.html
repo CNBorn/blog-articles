@@ -1,0 +1,5 @@
+{{ define "title" }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<h2 class="title">{{ .Title }}</h2>
+{{ partial "article-list.html" .Pages.ByDate.Reverse }}
+{{ end }}

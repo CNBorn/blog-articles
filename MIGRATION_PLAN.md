@@ -65,3 +65,10 @@ bash tools/migration/verify.sh http://127.0.0.1:8788  # every old URL + legacy r
 
 Reconcile with `CNBorn/website` (Tyler Xing personal site, `/writing/` already holds imported
 copies of these posts): decide which site owns cnborn.net, then map `/blog/...` URLs onto it.
+
+## Build and deploy
+
+- Remote: Cloudflare Workers Builds on worker `cnborn-blog`, connected to `CNBorn/blog-articles` `master`.
+  Build command `bash tools/build.sh` (downloads Hugo extended 0.146.5 and installs docutils if missing),
+  deploy command `npx wrangler deploy`. Pushing to `master` publishes the site.
+- Local fallback: `bash tools/build.sh && npx wrangler deploy`.

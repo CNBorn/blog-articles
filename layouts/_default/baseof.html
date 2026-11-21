@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="/blog/theme/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/blog/theme/css/pygments.css">
+    <link rel="stylesheet" type="text/css" href="/blog/theme/css/fonts.css">
+    <link href="/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Tyler Xing ATOM Feed" />
+    <link href="/blog/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Tyler Xing RSS Feed" />
+    <title>{{ block "title" . }}{{ if and .Title (not .IsHome) (ne .Params.layout "lang") }}{{ .Title }} - {{ end }}{{ site.Title }}{{ end }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{- if .Permalink }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{- end }}
+    <link rel="icon" href="/blog/theme/images/favicon.ico">
+</head>
+
+<body>
+    <section id="navbar">
+        <div class="user_meta">
+            <h1 id="user"><a href="/blog/" class="">Tyler Xing</a></h1>
+            <h2></h2>
+        </div>
+        <div class="nav-button">
+            <ul>
+                {{- partial "menu.html" . }}
+             </ul>
+         </div>
+     </section>
+
+     <section id="sidebar">
+        <div class="user_meta">
+            <h1 id="user"><a href="/blog/" class="">Tyler Xing</a></h1>
+            <h2></h2>
+            <ul>
+                {{- partial "menu.html" . }}
+            </ul>
+        </div>
+    </section>
+
+    <section id="posts">
+{{ block "main" . }}{{ end }}
+    </section>
+</body>
+</html>

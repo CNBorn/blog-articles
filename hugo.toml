@@ -1,0 +1,60 @@
+# Hugo rebuild of the Pelican blog at cnborn.net/blog/, kept URL-compatible with the
+# last Pelican build (2023-12-31). See MIGRATION_PLAN.md.
+baseURL = "https://cnborn.net/"
+title = "Tyler Xing"
+languageCode = "en"
+timeZone = "Asia/Shanghai"
+disablePathToLower = true
+capitalizeListTitles = false
+disableKinds = ["taxonomy", "section"]
+enableRobotsTXT = false
+
+[params]
+  author = "Tyler Xing"
+  disqus = "cnborn"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks.term]
+  categories = "/blog/category/:slug/"
+  tags = "/blog/tag/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      linkify = false
+      typographer = false
+      strikethrough = false
+    [markup.goldmark.parser]
+      autoHeadingID = false
+      [markup.goldmark.parser.attribute]
+        title = false
+
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.PelicanRSS]
+    mediaType = "application/rss+xml"
+    baseName = "all.rss"
+    path = "blog/feeds"
+    isPlainText = false
+    noUgly = true
+  [outputFormats.PelicanAtom]
+    mediaType = "application/atom+xml"
+    baseName = "all.atom"
+    path = "blog/feeds"
+    noUgly = true
+
+[outputs]
+  home = ["HTML", "PelicanRSS", "PelicanAtom"]
+  term = ["HTML"]
+  page = ["HTML"]
+
+[security.exec]
+  allow = ['^rst2html$', '^(dart-)?sass(-embedded)?$', '^go$', '^git$']

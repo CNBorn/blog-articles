@@ -1,0 +1,8 @@
+<ul class="article-list">
+{{- range . }}
+  <li>
+    <dt>{{ .Date.Format "2006.01.02" }}</dt>
+    <dd><a href="{{ .RelPermalink }}">{{ .Title }}</a></dd>
+  </li>
+{{- end }}
+</ul>

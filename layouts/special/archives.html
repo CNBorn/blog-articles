@@ -1,0 +1,11 @@
+{{ define "title" }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<h1>Archives for Tyler Xing</h1>
+
+<dl>
+{{- range (partial "posts.html" .).ByDate.Reverse }}
+    <dt>{{ .Date.Format "2006.01.02" }}</dt>
+    <dd><a href="{{ .RelPermalink }}">{{ .Title }}</a></dd>
+{{- end }}
+</dl>
+{{ end }}

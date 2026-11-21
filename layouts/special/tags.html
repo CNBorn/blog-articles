@@ -1,0 +1,10 @@
+{{ define "title" }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+	<dl id="tag_list">
+		<ul>
+		{{- range site.Taxonomies.tags.Alphabetical }}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+		{{- end }}
+		</ul>
+	</dl>
+{{ end }}

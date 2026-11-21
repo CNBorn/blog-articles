@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+  <h1 id="title">
+    <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+  </h1>
+
+  <div class='article-content'>
+{{ .Content }}
+  </div>
+
+</article>
+{{ end }}

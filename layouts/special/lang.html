@@ -1,0 +1,5 @@
+{{ define "title" }}{{ site.Title }}{{ end }}
+{{ define "main" }}
+<h2 class="title">Articles in {{ .Params.filter_lang }}</h2>
+{{ partial "article-list.html" (where (partial "posts.html" .) "Params.original_language" .Params.filter_lang).ByDate.Reverse }}
+{{ end }}

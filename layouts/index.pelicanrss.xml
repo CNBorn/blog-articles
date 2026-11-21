@@ -1,0 +1,5 @@
+{{- $posts := (partial "posts.html" .).ByDate.Reverse -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<rss version="2.0"><channel><title>{{ site.Title }}</title><link>{{ absURL "blog/" }}</link><description></description>{{ with index $posts 0 }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+{{- range $posts }}<item><title>{{ .Title }}</title><link>{{ .Permalink | safeHTML }}</link><description>{{ .Content | replaceRE "(src|href)=\"/" "$1=\"https://cnborn.net/" | transform.XMLEscape | safeHTML }}</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">{{ site.Params.author }}</dc:creator><pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate><guid isPermaLink="false">tag:cnborn.net,{{ .Date.Format "2006-01-02" }}:{{ .RelPermalink | safeHTML }}</guid>{{ range .GetTerms "categories" }}<category>{{ .LinkTitle }}</category>{{ end }}{{ range .GetTerms "tags" }}<category>{{ .LinkTitle }}</category>{{ end }}</item>
+{{ end }}</channel></rss>
